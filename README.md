@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @xroosterx
 - 👀 I’m interested in gaming as well
 - 🌱 I’m currently learning programing
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on what ever
 - 📫 How to reach me here: via my email
 
 <!---
