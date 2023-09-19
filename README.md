@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning programing
 - 💞️ I’m looking to collaborate on what ever
 - 📫 How to reach me here: via my email
-- here we go
+- here we go again
 
 <!---
 xroosterx/xroosterx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
