@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @xroosterx
+- 👋 Hi, I’m @xroosterx :D
 - 👀 I’m interested in gaming as well
 - 🌱 I’m currently learning programing
 - 💞️ I’m looking to collaborate on what ever
